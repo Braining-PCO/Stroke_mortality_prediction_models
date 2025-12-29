@@ -1,0 +1,635 @@
+subject_id,hadm_id,charttime,storetime,text,gender,anchor_age,dod,mortality,admittime,dischtime,deathtime,admission_type,race,number_of_readmissions,icd_code,icd_version,age_group
+10003299,27373340,01/08/2183,01/08/2183 18:44," 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Iodine-Iodine Containing
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Throat Pain, confusion, worsening L hemiparesis 
+ 
+Major Surgical or Invasive Procedure:
+___ and biopsy 
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ w/ stage IIIA squamous cell carcinoma
+of lung, s/p completion of concurrent ___ ___,
+also w/ a h/o multiple strokes w/ residual left hemiparesis, 
+HTN,
+DL, and prior colon cancer s/p hemicolectomy who is transferred
+from ___ for continuity of care. 
+
+Dr ___, the oncology service resident, called me for
+signout. She presented there  on ___ with subacute worsening 
+of
+her chronic L-sided hemiparesis and confusion. She was seen by
+neurology and her head CT and brain MRI did not reveal any
+new/acute stroke or other acute process. The neurologic symptoms
+were therefore felt to be recrudescence of prior stroke symptoms
+in the setting of dehydration, deconditioning, malnutrition. She
+had a CXR that was concerning for pneumonia. She had a Chest CT
+which revealed no pneumonia but did reveal b/l scapular mets. 
+Her
+confusion resolved with some maintenance fluids and her lue
+weakness improved. Nutrition and ___ saw her as well. 
+
+Her symptoms of poor po intake and esophagitis are known to her
+oncology team and they have been working closely together,
+respecting her wishes to remain independent at home. She was 
+even
+recently admitted ___ and her sx improved w/ oral liquid
+lidocaine formulation. She states this helps and is not taking 
+it
+because she doesn't have it at home. 
+
+I spoke w/ her daughter, who is her HCP and she noted that her
+mom has been having increased confusion for weeks now at least.
+She thinks she may have dementia. She notes that she does have a
+new bottle of lidocaine at home. She notes worsening PO intake.
+ 
+REVIEW OF SYSTEMS: A complete 10-point review of systems was
+performed and was negative unless otherwise noted in the HPI.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+Briefly, patient initially presented to care in ___ with
+hemoptysis. She was subsequently admitted for workup of same and
+had a CT of the chest which showed a right infrahilar mass with
+complete occlusion of the right middle lobe bronchus and
+atelectasis of the right middle lobe with high suspicion for 
+lung
+cancer; there was evidence of bilateral intrathoracic 
+adenopathy.
+During her hospital admission, she was seen by the 
+interventional
+pulmonary team and scheduled for outpatient bronchoscopy.
+
+She underwent bronchoscopy with EBUS under Dr. ___ care on
+___. FNA of the right middle lobe mass showed findings
+consistent with squamous cell carcinoma; there was biopsy-proven
+involvement of the level 4L lymph node; sampling of the 11 L
+lymph node showed no malignant cells.
+
+Patient underwent staging PET scan on ___. This showed an 
+FDG
+avid 3.2 cm mass in the right infrahilar region with evidence of
+occlusion of the right middle lobe bronchus and atelectasis of
+the right middle lobe. FDG avid subcarinal adenopathy measuring
+up to 1.3 cm was noted; additionally enlarged mediastinal and 
+and
+hilar lymph nodes are also noted.  A 2.2 cm left lower lobe
+subpleural FDG avid lesion was also noted. No other distant
+metastatic sites of disease were noted.
+
+-___: weekly ___ and radiation started
+-___ completed weekly ___ + RT
+-___ ED visit for fall, head scrape
+-___ ED visit for hypokalemia
+-___ Admission for esophagitis
+
+PAST MEDICAL HISTORY:
+- H/o paramedian pontine infarct in ___
+- H/o right-sided lenticulostriate territory infarct in ___
+- Hypertension 
+- Dyslipidemia 
+- Colon cancer, s/p right hemicolectomy in ___
+- Cholecystectomy for chronic cholecystitis and gallstones in
+___
+- Diverticulosis
+- Hemorrhoids
+- Tobacco Abuse
+ 
+Social History:
+___
+Family History:
+Mother had stroke in her ___ or ___. Her
+paternal grandfather, father, and brother all had colon cancer.
+Two brothers had gastric cancer. Sister had ovarian cancer.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: Temp 98.3, 74, 140/64, 100% on RA 
+GENERAL: Pleasant woman, in no distress, lying in bed 
+omfortably.
+HEENT: Anicteric, PERLL, OP clear.
+CARDIAC: RRR, normal s1/s2, no m/r/g.
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi.
+ABD: Soft, non-tender, non-distended, normal bowel sounds.
+EXT: Warm, well perfused, no lower extremity edema, erythema or
+tenderness.
+NEURO: A&Ox3, L temporal field deficit, CN XI weak, ___ LUE, 
+good
+attention and linear thought, CN III-XII otherwise intact but 
+she
+has a mild R facial drop but symmetric smile. Strength ___ RUE
+and RLE, but 3+/5 proximal LLE with ___ on plantar flexion and
+dorsiflexion. No nystagmus. gait not assessed
+SKIN: xerosis on upper extremities 
+ACCESS: Right chest wall port without erythema, accessed,
+dressing c/d/i
+
+DISCHARGE PHYSICAL EXAM:
+VS: ___ 0740 Temp: 99.0 PO BP: 133/79 HR: 96 RR: 18 O2 sat:
+100% O2 delivery: RA 
+GENERAL: Pleasant, in no distress, lying in bed comfortably
+HEENT: Anicteric sclera, EOMI
+CARDIAC: RRR, normal s1/s2, no m/r/g.
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi.
+ABD: Soft, non-tender, non-distended, normal bowel sounds.
+EXT: Warm, well perfused, no lower extremity edema, erythema or
+tenderness.
+NEURO: A&Ox3, strength ___ RLE&RUE, ___ LLE&LUE
+SKIN: xerosis on upper extremities 
+ACCESS: Right chest wall port without erythema, accessed,
+dressing c/d/i
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+___ 05:39AM BLOOD WBC-21.5* RBC-3.78* Hgb-9.6* Hct-29.9* 
+MCV-79* MCH-25.4* MCHC-32.1 RDW-23.9* RDWSD-69.0* Plt ___
+___ 05:39AM BLOOD Neuts-89.5* Lymphs-5.0* Monos-3.9* 
+Eos-0.2* Baso-0.3 Im ___ AbsNeut-18.96* AbsLymp-1.07* 
+AbsMono-0.83* AbsEos-0.04 AbsBaso-0.06
+___ 05:39AM BLOOD ___ PTT-30.1 ___
+___ 05:39AM BLOOD Glucose-174* UreaN-5* Creat-0.6 Na-145 
+K-3.6 Cl-107 HCO3-23 AnGap-15
+___ 05:39AM BLOOD ALT-21 AST-15 LD(LDH)-343* AlkPhos-240* 
+TotBili-0.4
+___ 05:39AM BLOOD Albumin-2.5* Calcium-9.2 Phos-3.2 Mg-2.0
+
+MICRO:
+======
+___ c diff stool test - negative
+
+IMAGING/STUDIES:
+===============
+___ second opinion CT Torso:
+1. Within the confines of a motion limited, unenhanced study, 
+the known,
+approximately 1.8 cm right hilar mass appears stable.
+2. Stable postobstructive collapse of the right middle lobe in 
+the setting of
+right hilar mass.
+3. Stable 3 mm left upper lobe pulmonary nodule.  No definite 
+new or growing
+pulmonary nodules.
+4. Moderate paraseptal emphysema.
+
+___ right upper extremity US:
+1. Nonocclusive thrombus is seen in the right internal jugular 
+vein.
+2. The remaining visualized veins of the right upper extremity 
+are patent.
+
+___ EGD:
+- erythema in middle third of esophagus, consistent with 
+non-erosive esophagitis
+- esophageal hiatal hernia
+- erythema and erosion in gastric antrum and stomach body 
+consistent with non-erosive gastritis
+- duodenitis
+- ring in the distal esophagus
+
+___ x-rays of pelvis and femurs:
+No evidence of lytic or sclerotic lesions within either femur or 
+pelvis.
+
+DISCHARGE LABS:
+==============
+
+___ 05:21AM BLOOD WBC-22.4* RBC-3.44* Hgb-8.8* Hct-27.3* 
+MCV-79* MCH-25.6* MCHC-32.2 RDW-23.0* RDWSD-65.7* Plt ___
+___ 05:21AM BLOOD Plt ___
+___ 05:21AM BLOOD Glucose-178* UreaN-8 Creat-0.6 Na-147 
+K-3.6 Cl-109* HCO3-25 AnGap-13
+___ 04:40AM BLOOD ALT-17 AST-13 AlkPhos-242* TotBili-0.4
+___ 05:21AM BLOOD Calcium-9.2 Phos-2.7 Mg-2.5
+ 
+Brief Hospital Course:
+SUMMARY:
+=========
+___ w/ stage IIIA squamous cell carcinoma of lung, s/p 
+completion of concurrent ___ ___, also w/ a h/o 
+multiple strokes w/ residual left hemiparesis, HTN, DL, and 
+prior colon cancer s/p hemicolectomy who is transferred from 
+___ for continuity of care after presenting 
+there w/ confusion and worsening LUE weakness. 
+
+ACTIVE ISSUES:
+============
+#Odynophagia/Dysphagia: Most likely radiation esophagitis, 
+reflux esophagitis. ___ EGD with esophagitis, gastritis, 
+duodenitis. Gastric biopsy showed H. pylori. She was given 
+viscous lidocaine with meals, BID PPI, fluids as needed, and a 
+regular diet. We had long discussions about her goals of care 
+with both her outpatient oncology team as well as her palliative 
+care team (detailed below) and it was ultimately decided to not 
+pursue full antibiotic therapy for H. pylori as her primary 
+symptom of odynophagia is most likely primarily related to 
+strictures and radiation esophagitis. 
+
+#Failure to thrive
+Seems like most likely etiology is poor po intake. Felt to be 
+due to progressive esophagitis (presumably radiation induced). 
+She has odynophagia. TSH wnl. No e/o pulmonary infection. UA neg 
+at OSH. C diff negative this admission. Geriatrics was involved 
+in the patient's care during this admission. Her throat and body 
+pain was controlled with IV morphine, and she received viscous 
+lidocaine to help her eat/drink more comfortably. She was 
+supported with IVF as needed. ___ and OT evaluated her and 
+recommended rehab placement however after long discussions of 
+her GOC and it was decided that she would not want tube feeding 
+and would like to go home on hospice. 
+
+#Nonocclusive thrombus in right IJ
+In the setting of being hypercoagulable from malignancy. 
+HAS-BLED score is 3 (HTN, stroke Hx, age she is at high risk for 
+major bleeding, but is hypercogulable iso malignancy. The 
+definitive treatment for her hypercoagulable state is treatment 
+of her malignancy, if within GOC. Her home ASA/Plavix were 
+continued, and she was started on enoxaparin 80 mg SC daily, 
+with the plan to treat for 1 month.
+
+#Stage IIIA Squamous Cell Lung Carcinoma
+#Bilateral lytic scapular lesions
+Most recent imaging, CT chest on ___, revealed substantial 
+decrease in size of the pre-existing right hilar mass, which now 
+measures 20 x 20 mm in diameter. However CT abd revealed ""new 
+1.3 cm hepatic segment VII lesion ... suspicious for 
+metastasis."" ___ elevated this admission, consistent with liver 
+involvement. Now CT from ___ revealed new bilateral lytic 
+scapular lesions.
+Outpatient team arranging PET scan in ___, with future 
+cancer treatment directed therapies to be determined. Her 
+outpatient oncology team (Drs ___ was contacted 
+with updates. Hip/femur x-rays were obtained to eval for 
+osseous/lytic lesions (because of delays with scheduling a bone 
+scan).
+
+#Encephalopathy 
+She's been having episodes of confusion for some time now per 
+daughter. She locked herself in the bathroom last week. 
+""Thetiles have me locked in the bathroom and I can't get out."" 
+But the bathroom was not locked. A few weeks ago, she had left 
+the stove on during a hot day, and she stated she was heating 
+food for her son (who was murdered ___. Daughter is 
+concerned
+about dementia. MRI brain did not reveal mets or new stroke. 
+although pt is oriented x 3, she seems to have poor insight into 
+reason for admission and her hospitalization. Confusion possibly 
+also due to impaired sleep (sleeps during day, as lives with her 
+son who works nights), dehydration, pain from malignancy. 
+Geriatrics was consulted and assisted with her care. Her 
+nutrition and hydration status were optimized and her pain was 
+controlled with IV morphine. She received high dose thiamine for 
+possible Wernicke's encephalopathy. She received folic acid 
+repletion for severe protein calorie malnutrition.
+
+CHRONIC/RESOLVED ISSUES:
+========================
+#Worsening LUE and LLE weakness - stable
+#History of CVA w/ residual hemiparesis
+Likely recrudescence from prior CVA and improved w/ hydration 
+and nutrition. Her home aspirin, Plavix, and atorvastatin were 
+continued. Her neurologic status was checked daily. She was 
+started on Lovenox ___aily.
+
+#Severe protein calorie malnutrition: 
+- Nutrition was consulted. She received a regular diet, high 
+dose thiamine, folic acid and MVI. Her electrolytes were 
+monitored daily and repleted as needed.
+
+#Tobacco Abuse: Continued nicotine patch.
+
+TRANSITIONAL ISSUES:
+====================
+[] Due to esophageal spasms seen during EGD, outpatient 
+esophageal mannometry should be considered to further work up 
+her dysphagia/odynophagia.
+[] Consider starting a bisphosphonate, if osseous metastases are 
+confirmed through bone scan/bone biopsy.
+
+Code status: DNR/DNI
+
+EMERGENCY CONTACT HCP: ___ (daughter)
+___
+
+This patient was prescribed, or continued on, an opioid pain 
+medication at the time of discharge (please see the attached 
+medication list for details). As part of our safe opioid 
+prescribing process, all patients are provided with an opioid 
+risks and treatment resource education sheet and encouraged to 
+discuss this therapy with their outpatient providers to 
+determine if opioid pain medication is still indicated.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Nicotine Patch 21 mg/day TD DAILY 
+2. Cyanocobalamin ___ mcg PO DAILY 
+3. Multivitamins W/minerals 1 TAB PO DAILY 
+4. Lidocaine Viscous 2% 15 mL PO QID:PRN throat pain 
+5. Potassium Chloride (Powder) 20 mEq PO DAILY 
+6. Aspirin 81 mg PO DAILY 
+7. Atorvastatin 40 mg PO QPM 
+8. Oxybutynin 5 mg PO DAILY 
+9. Clopidogrel 75 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Enoxaparin Sodium 80 mg SC DAILY 
+RX *enoxaparin 80 mg/0.8 mL 80 mg SC daily Disp #*30 Syringe 
+Refills:*3 
+2.  Morphine Sulfate (Concentrated Oral Solution) 20 mg/mL 10 mg 
+PO Q4H:PRN Pain - Severe 
+RX *morphine concentrate 100 mg/5 mL (20 mg/mL) 10 mg by mouth 
+q4hrs PRN Refills:*0 
+3.  Naloxone Nasal Spray 4 mg IH ONCE MR1 Duration: 1 Dose 
+RX *naloxone [Narcan] 4 mg/actuation 1 spray nasal once AS 
+NEEDED Disp #*1 Spray Refills:*0 
+4.  Omeprazole 40 mg PO DAILY 
+RX *omeprazole 40 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*3 
+5.  Lidocaine Viscous 2% 15 mL PO QID:PRN throat pain  
+6.  Nicotine Patch 21 mg/day TD DAILY  
+7.  Oxybutynin 5 mg PO DAILY  
+8.  Potassium Chloride (Powder) 20 mEq PO DAILY 
+Hold for K > 4.0  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis 
+==================
+1) Odynophagia/Dysphagia
+2) Failure to Thrive
+3) H pylori gastritis 
+4) Stage IIA squamous cell carcinoma of the lung 
+5) Non-occlusive thrombus of the right IJ 
+6) Severe protein calorie malnutrition
+
+Secondary Diagnosis
+===================
+1) History of CVA 
+2) Tobacco Abuse 
+
+ 
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Activity Status: Bedbound.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you at ___ 
+___.
+
+WHY WAS I IN THE HOSPITAL?
+- You were having pain in your throat and body. You were not 
+getting enough to eat and drink. Because of this, you were 
+weaker than usual, which made your old stroke symptoms seem 
+worse. Your children were concerned that you were more confused 
+than usual.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?
+- You received scans to make sure that you did not have a new 
+stroke.
+- You were watched closely for signs of infection.
+- You were supported with fluids and nutritious food.
+- You underwent an endoscopy procedure, which showed a lot of 
+inflammation that is probably causing your swallowing pain. You 
+were given liquid lidocaine for throat pain, as well as an acid 
+blocker medicine. 
+- Your body pain was treated with morphine.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+- Continue to take all your medicines and keep your 
+appointments.
+
+We wish you the best!
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___
+",F,65,12/08/2183,1,23/07/2183 20:41,01/08/2183 18:30,,URGENT,BLACK/AFRICAN AMERICAN,8,I69354,10,65–74
+10004113,29879900,22/03/2173,22/03/2173 16:49," 
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Seizures, Headaches, left frontal cavernous Malformation
+ 
+Major Surgical or Invasive Procedure:
+___ craniotomy for RSX of Cavernous malformation  
+ 
+History of Present Illness:
+Mr. ___ is a very pleasant ___ Caucasian male who was 
+diagnosed with a left inferolateral frontal lobe cavernous 
+malformation approximately ___ years ago in around ___.  He 
+has had an episode where he had twitching of the right side of 
+his tongue, some dysarthria and that resulted into more 
+extensive simple partial seizures.  Now, this past ___, he 
+again had a similar episode where he had twitching of the right 
+side of his tongue and he had difficulty speaking.  He is 
+currently taking Keppra 1000 mg once a day at night.  
+
+A recent CT shows some hyperdensity within the lesion that is 
+indicative of recent hemorrhage.  Given the fact that he has 
+continuous seizures despite management of antiepileptic drugs 
+and the vicinity of the small cavernoma to the brain surface, we 
+think it is reasonable to remove it surgically.  We will set him 
+up for surgical resection to a preresection Wand Brain Lab MRI 
+prior.  He reviewed the risks and benefits of this operation and 
+he is okay with preceding.
+
+ 
+Past Medical History:
+Left frontal cavernous malformation w/seizures & headaches 
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+On Discharge:
+alert, oriented x3. PERRL. Face symmetric. Tongue midline. EOM 
+intact.
+Strength ___ throughout. Sensation intact to light touch.
+No pronator drift.
+Incision c/d/I with staples - no erythema. Mild L facial 
+swelling 
+
+ 
+Pertinent Results:
+ MR HEAD W/ CONTRAST Study Date of ___ 5:16 AM 
+  
+IMPRESSION: 
+ 1. Unchanged appearance of a left temporal operculum 1.0 cm 
+lesion compatible with a cavernoma with associated large 
+developmental venous anomaly. 
+  
+2. Unchanged appearance of a right posterior parasagittal 0.8 cm 
+meningioma. 
+
+ 
+Brief Hospital Course:
+___ Caucasian male who was diagnosed with a left 
+inferolateral frontal lobe cavernous malformation approximately 
+___ years ago, with recent recurrent seizure activity, who 
+presents for elective left craniotomy for Cav Mal resection.
+
+#Inferolateral frontal lobe cavernous malformation: The patient 
+was taken to the OR on ___ for a left craniotomy for 
+frontal lobe cavernous malformation resection with Dr. ___. 
+The procedure was uncomplicated, the patient was extubated and 
+recovered in the PACU. He was closely monitored and then was 
+transferred to the step down unit when stable. He remained 
+neurologically intact. No postop imaging was indicated. Keppra 
+was increased to 500 mg qAM and 1000 mg q ___. Foley was removed 
+and he was urinating without retention. His diet was advanced 
+and well tolerated, he was ambulating, and pain was well 
+controlled with PO medications. He was discharged home on POD#2. 
+
+ 
+Medications on Admission:
+Keppra 1gm Daily,  lorazepam (PRN seizures), isotretinoin  
+ 
+Discharge Medications:
+1.  Acetaminophen-Caff-Butalbital ___ TAB PO Q6H:PRN Headache 
+no not take >4g acetaminophen in 24 hours from any source  
+RX *butalbital-acetaminophen-caff 50 mg-325 mg-40 mg ___ 
+capsule(s) by mouth every 6 hours as needed Disp #*30 Capsule 
+Refills:*0 
+2.  Docusate Sodium 100 mg PO BID  
+3.  LevETIRAcetam 500 mg PO QAM 
+RX *levetiracetam [Keppra] 500 mg 1 tablet(s) by mouth every 
+morning Disp #*30 Tablet Refills:*0 
+4.  LevETIRAcetam 1000 mg PO QHS  
+5.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every 4 hours as needed 
+Disp #*30 Tablet Refills:*0 
+6.  Senna 8.6 mg PO BID:PRN Constipation  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+cavernous malformation 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Discharge Instructions
+Brain Tumor
+
+Surgery
+ You underwent surgery to remove a Cavernous Malformation from 
+your brain. 
+ Please keep your incision dry until your staples are removed. 
+ You may shower at this time but keep your incision dry.
+ It is best to keep your incision open to air but it is ok to 
+cover it when outside. 
+ Call your surgeon if there are any signs of infection like 
+redness, fever, or drainage. 
+
+Activity
+ We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+ You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+ No driving while taking any narcotic or sedating medication. 
+ If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+ No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+ Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+ You have been discharged on Keppra (Levetiracetam). This 
+medication helps to prevent seizures. Please continue this 
+medication as indicated on your discharge instruction. It is 
+important that you take this medication consistently and on 
+time. 
+ You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+ You may experience headaches and incisional pain. 
+ You may also experience some post-operative swelling around 
+your face and eyes. This is normal after surgery and most 
+noticeable on the second and third day of surgery.  You apply 
+ice or a cool or warm washcloth to your eyes to help with the 
+swelling. The swelling will be its worse in the morning after 
+laying flat from sleeping but decrease when up. 
+ You may experience soreness with chewing. This is normal from 
+the surgery and will improve with time. Softer foods may be 
+easier during this time. 
+ Feeling more tired or restlessness is also common.
+ Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+When to Call Your Doctor at ___ for:
+ Severe pain, swelling, redness or drainage from the incision 
+site. 
+ Fever greater than 101.5 degrees Fahrenheit
+ Nausea and/or vomiting
+ Extreme sleepiness and not being able to stay awake
+ Severe headaches not relieved by pain relievers
+ Seizures
+ Any new problems with your vision or ability to speak
+ Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+ Sudden numbness or weakness in the face, arm, or leg
+ Sudden confusion or trouble speaking or understanding
+ Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+ Sudden severe headaches with no known reason
+
+ 
+Followup Instructions:
+___
+",M,33,,0,20/03/2173 00:00,22/03/2173 14:35,,SURGICAL SAME DAY ADMISSION,WHITE,0,I619,10,18–44
