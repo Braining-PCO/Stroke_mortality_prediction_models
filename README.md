@@ -1,11 +1,11 @@
-# Stroke Mortality Model
+# Stroke Mortality Prediction Models
 ### A multi-horizon mortality prediction framework using MIMIC-IV clinical data
 
 ---
 
 ## Overview
 
-This project develops and evaluates machine learning and deep learning models for predicting **stroke mortality** across multiple time horizons (1, 15, 30, 45, 60, and 90 days post-admission) using the [MIMIC-IV](https://physionet.org/content/mimiciv/2.2/) clinical database. The pipeline integrates structured EHR data with information extracted from free-text clinical notes via Named Entity Recognition (NER), and provides full explainability through SHAP and LIME.
+This project develops and evaluates machine learning and deep learning models for predicting **stroke mortality** across multiple time horizons (1, 15, 30, 45, 60, and 90 days post-admission) using the [MIMIC-IV](https://physionet.org/content/mimiciv/2.2/) clinical database. The pipeline integrates structured EHR data with information extracted from free-text clinical notes via Named Entity Recognition (NER), and provides explainability using SHAP and LIME.
 
 ---
 
